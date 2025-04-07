@@ -1,0 +1,6 @@
+streamlit
+huggingface_hub
+datasets
+pandas
+fpdf
+xlsxwriter
